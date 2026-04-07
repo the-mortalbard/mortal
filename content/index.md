@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Mortal's Thots
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hell folks! This is just a small website where I can share my thots (Yes misspelled intentionally) with any I want, also just wanted to keep a digital diary of sorts. Anyways feel free to look around, maybe you will find something of value!
